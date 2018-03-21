@@ -8,6 +8,8 @@
 import subprocess
 import re
 import sys
+import matplotlib
+matplotlib.use('agg')
 from matplotlib import pyplot as plt
 from collections import defaultdict
 import numpy as np
@@ -51,3 +53,4 @@ plt.xlabel("ACV (%)")
 plt.ylabel("Connected Networks (%)")
 plt.legend(loc="lower right")
 plt.show()
+plt.savefig('test.png')

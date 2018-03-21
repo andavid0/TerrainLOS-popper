@@ -202,10 +202,12 @@ for simulation_path in simulation_paths:
       # processes trying to read and write the same simulation file
       # This is not needed when only one proess is running this script, but it doesn't hurt
       temp_sim_path = starting_directory
+      print('starting directory ' + temp_sim_path)
       for j in range(0, 32):
         temp_sim_path += random.choice(string.lowercase)
       temp_sim_path += ".csc"
 
+      print('simulation path ' + simulation_path)
       nodes = set_simulation_file(simulation_path, terrain_directory + hgt, transmission_range, interference_range, ew, sw, eo, so, "true", temp_sim_path)
        
       # Delete existing dag files so that old dag files cannot be used
@@ -216,6 +218,7 @@ for simulation_path in simulation_paths:
       if os.path.exists("build/dag.xml"):
         os.remove("build/dag.xml")
 
+      print("Running " + temp_sim_path)
       output = subprocess.check_output(["ant", "run_nogui", "-Dargs=" + temp_sim_path], stderr=subprocess.STDOUT)
       progress += 1
       print("(" + str(progress) + "/" + str(len(simulation_paths)*num_acvs) + ") Simulation finished")

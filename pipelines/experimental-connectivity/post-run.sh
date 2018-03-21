@@ -5,6 +5,13 @@
 # by the 'popper check' command.
 set -e
 
+pushd
+docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_1_log.txt
+
+mv test.png 1.png
+
+popd
+
 # add commands here:
 
 exit 0
