@@ -12,16 +12,16 @@
     <randomseed>123456</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
-      edu.ucsc.terrainlos.TerrainLOSMedium
-      <transmitting_range>1736.59533417</transmitting_range>
-      <interference_range>1736.59533417</interference_range>
+      edu.ucsc.terrianlos.TerrainLOSMedium
+      <transmitting_range>4665.72164495</transmitting_range>
+      <interference_range>4665.72164495</interference_range>
       <success_ratio_tx>1.0</success_ratio_tx>
       <success_ratio_rx>1.0</success_ratio_rx>
-      <terrain_filepath>/campusdata/smansfie/TerrainLOS/Experimental_Connectivity/../ACV/SRTM_Terrain/N36W112.hgt</terrain_filepath>
+      <terrain_filepath>/experiment/Connectivity/../ACV/SRTM_Terrain/N34W119.hgt</terrain_filepath>
       <east_width>100</east_width>
       <south_width>100</south_width>
-      <east_offset>2000</east_offset>
-      <south_offset>1500</south_offset>
+      <east_offset>1200</east_offset>
+      <south_offset>1600</south_offset>
       <output_dag>true</output_dag>
     </radiomedium>
     <events>
