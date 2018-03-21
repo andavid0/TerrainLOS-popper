@@ -4,7 +4,7 @@
 # the pipeline. Any non-zero exit code will be interpreted as a failure
 # by the 'popper check' command
 acvs='10 20 30 40 50 60 70 80 90 100'
-pops='1'
+pops='1 10 30 80'
 
 for acv in $acvs; do
   for pop in $pops; do
