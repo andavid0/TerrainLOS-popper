@@ -12,7 +12,7 @@
     <randomseed>123456</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
-      edu.ucsc.terrianlos.TerrainLOSMedium
+      edu.ucsc.terrainlos.TerrainLOSMedium
       <transmitting_range>1736.59533417</transmitting_range>
       <interference_range>1736.59533417</interference_range>
       <success_ratio_tx>1.0</success_ratio_tx>
