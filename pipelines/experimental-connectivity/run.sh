@@ -10,9 +10,9 @@ for acv in $acvs; do
   for pop in $pops; do
     docker run --rm \
       -v `pwd`:/experiment \
-      --workdir=/experiment/Connectivity
-      --entrypoint=python
-      sbungartz/cooja
-        calc_experimental_connectivity.py 628 $acv /home/cooja/contiki/ $pop
+      --workdir=/experiment/Connectivity \
+      --entrypoint=python \
+      sbungartz/cooja \
+        calc_experimental_connectivity.py 628 $acv /home/contiki/cooja $pop
   done
 done
