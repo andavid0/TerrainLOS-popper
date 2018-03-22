@@ -21,7 +21,7 @@ RUN git clone git://github.com/contiki-os/contiki && \
 
 #Setup Anaconda environment
 COPY environment.yml .
-RUN conda install backports backports.functools_lru_cache backports_abc ca-certificates certifi cycler decorator freetype functools32 futures intel-openmp kiwisolver libedit libffi libgfortran libpng matplotlib mkl ncurses networkx numpy openssl pip pyparsing python python-dateutil pytz readline singledispatch six sqlite subprocess32 tk tornado wget wheel zlib
+RUN conda install backports backports.functools_lru_cache backports_abc ca-certificates certifi cycler decorator freetype functools32 futures intel-openmp kiwisolver libedit libffi libgfortran libpng matplotlib mkl ncurses numpy openssl pip pyparsing python python-dateutil pytz readline singledispatch six sqlite subprocess32 tk tornado wget wheel zlib networkx=1.9.1=py27_0
 
 COPY cooja.properties /root/.cooja.user.properties
 
