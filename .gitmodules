@@ -1,6 +1,0 @@
-[submodule "orpl"]
-	path = orpl
-	url = https://github.com/simonduq/orpl
-[submodule "pipelines/experimental-connectivity/orpl"]
-	path = pipelines/experimental-connectivity/orpl
-	url = https://github.com/simonduq/orpl
