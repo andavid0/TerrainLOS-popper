@@ -6,7 +6,7 @@
   <project EXPORT="discard">[APPS_DIR]/serial_socket</project>
   <project EXPORT="discard">[APPS_DIR]/collect-view</project>
   <project EXPORT="discard">[APPS_DIR]/powertracker</project>
-  <project EXPORT="discard">[CONFIG_DIR]/TerrainLOS</project>
+  <project EXPORT="discard">/root/TerrainLOS</project>
 
   <simulation>
     <title>layout1_30.csc</title>
