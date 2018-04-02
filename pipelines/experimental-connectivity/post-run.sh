@@ -6,21 +6,30 @@
 set -e
 
 #pushd
-docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_1_log.txt
+#docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_1_log.txt
 
 #mv test1.png 1.png
-docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_10_log.txt
+#docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_10_log.txt
 #mv test1.png 10.png
 
-docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_30_log.txt
+#docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_30_log.txt
 #mv test1.png 30.png
 #docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_40_log.txt
 #docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_50_log.txt
-docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_80_log.txt
+#docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py ec_80_log.txt
 #mv test1.png 80.png
 
 #popd
 
 # add commands here:
+
+logs='ec_1_log.txt ec_10_log.txt ec_30_log.txt ec_80_log.txt'
+
+for log in $logs; do
+	docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py $log
+  
+done
+
+
 
 exit 0
