@@ -6,12 +6,13 @@
   <project EXPORT="discard">[APPS_DIR]/serial_socket</project>
   <project EXPORT="discard">[APPS_DIR]/collect-view</project>
   <project EXPORT="discard">[APPS_DIR]/powertracker</project>
+  <project EXPORT="discard">/root/TerrainLOS</project>
   <simulation>
     <title>My simulation</title>
     <randomseed>123456</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
-      se.sics.cooja.radiomediums.TerrainLOSMedium
+      edu.ucsc.terrainlos.TerrainLOSMedium
       <transmitting_range>50.0</transmitting_range>
       <interference_range>100.0</interference_range>
       <success_ratio_tx>1.0</success_ratio_tx>
