@@ -23,12 +23,8 @@ set -e
 
 # add commands here:
 
-logs='ec_1_log.txt ec_10_log.txt ec_30_log.txt ec_80_log.txt'
-
-for log in $logs; do
-	docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py $log
+docker run --rm -v $PWD:/experiment --workdir=/experiment/Connectivity --entrypoint=python -e PYTHONUNBUFFERED=1 cooja:2.7 graph_max_density_connectivity.py test_log.txt
   
-done
 
 
 
