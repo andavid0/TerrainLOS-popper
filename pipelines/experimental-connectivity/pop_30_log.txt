@@ -1,0 +1,181 @@
+Transmission range: 839.8298960918789
+Downloading: N37W122.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/ppqyfotsjnaeijffxmkdslwwexbflrqt.csc
+(1/25) Simulation finished
+Network not connected
+Number of nodes in dag: 100
+stranded_nodes: []
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/vkyscpjesqhrwsfhqxqndlfqdkjoewwz.csc
+(2/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/fjtniwgqcpqrcznedlldgvyktzlyscge.csc
+(3/25) Simulation finished
+Network not connected
+Number of nodes in dag: 97
+stranded_nodes: [6, 67, 79]
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/kxuyyhbhfwnvxonycajnxgwayjpfvyxb.csc
+(4/25) Simulation finished
+Network not connected
+Number of nodes in dag: 97
+stranded_nodes: [6, 25, 67]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/bkpuuzjgsitdtmiitazxygwoewtszefy.csc
+(5/25) Simulation finished
+Network not connected
+Number of nodes in dag: 100
+stranded_nodes: []
+Downloading: N37W122.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/pzywhpizceqhdxminwwntskzctiqsvkm.csc
+(6/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [66]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/ourbugqqckxfkwlqmnipvqaxkferqiln.csc
+(7/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/pnqkvcvtmykxblllxbwgftetwkuazpep.csc
+(8/25) Simulation finished
+Network not connected
+Number of nodes in dag: 100
+stranded_nodes: []
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/xwnqtlhkyzkvjqscwwhivznnjkeumply.csc
+(9/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [69]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/napklpbeoldpbwgkvnaxlramnrysklcm.csc
+(10/25) Simulation finished
+Network not connected
+Number of nodes in dag: 100
+stranded_nodes: []
+Downloading: N37W122.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/eemlwqjttykqwifupgmhhhmoopnwlumb.csc
+(11/25) Simulation finished
+Network not connected
+Number of nodes in dag: 98
+stranded_nodes: [55, 80]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/hmdgwhupcuaoytparvhuxqqcqyiinoeq.csc
+(12/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/pkuplfzhxdahoulprtxbdrnvnjpqzlxk.csc
+(13/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [96]
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/fiomgqxxihxeeozwsvlprqcoilindxdk.csc
+(14/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [32]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/enxdvhvjrjckynfbvzbbfqizopnnxzta.csc
+(15/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [40]
+Downloading: N37W122.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/asydlkemmenjjdbdhluaqrjxdndmyzes.csc
+(16/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/kajpecdiksrxryegercgpnieuxqdaiut.csc
+(17/25) Simulation finished
+Network not connected
+Number of nodes in dag: 100
+stranded_nodes: []
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/qzreqrovcysfzfeakwugcufwwkhxouop.csc
+(18/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/tuaruaadlhoiymjvvglxekyrsqldfrhn.csc
+(19/25) Simulation finished
+Network not connected
+Number of nodes in dag: 98
+stranded_nodes: [1, 98]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/nwyqnfpxeqekftehtmrsixclllntcbgy.csc
+(20/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [62]
+Downloading: N37W122.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/inrlypwolbkogkncjvfrfijyggocbboa.csc
+(21/25) Simulation finished
+Network not connected
+Number of nodes in dag: 98
+stranded_nodes: [32, 60]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/ylsvnvetqznxbtjwvmljdcjdawdahkoa.csc
+(22/25) Simulation finished
+Network not connected
+Number of nodes in dag: 100
+stranded_nodes: []
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/aogpwugpogbhzmhzimeezpyswdkhdumn.csc
+(23/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/sqevhkqwwjjikkwnnwwajxkspegmrhhn.csc
+(24/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/xbonxpulvcgdujuyuapxsmlyoypdkixj.csc
+(25/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [60]
+Connected 28.0%, nodes: 100, density: 628, acv: 10.0%, degree: 10.945453064624788, population: 30
