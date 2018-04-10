@@ -1,0 +1,136 @@
+Transmission range: 839.8298960918789
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/teaszufhcjxxeswwatmtleombgwsxkvv.csc
+(1/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/kiwtiyojanndlxtxnkqrtrbpmzvrfecc.csc
+(2/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/epuejgpvrdyjairhnkxkbqdzeimohsms.csc
+(3/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/reijfmnvgbufxghsyldyvgfrbyaxhzkw.csc
+(4/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout1.csc
+Running /experiment/Connectivity/xtvgsbeajykljomkgukdzvosxdztbffd.csc
+(5/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/kngqvtpzejwzfrlyugyllevvixxqkquj.csc
+(6/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/vgsubrlyfxnhchezimxwfmwssgwiqzbv.csc
+(7/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/cmiwgjzlynlripwwdbmbqekhfuyxjsje.csc
+(8/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/kthjxexwmihlooixjwqctupibufjoznt.csc
+(9/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout2.csc
+Running /experiment/Connectivity/fwlniifcluasaemhqaejrwdbgrmuepkm.csc
+(10/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/rvdujvozusbdcmtzqywscdzryeejnaeu.csc
+(11/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/kbfuedymonvelookajdjwhahgoygsnot.csc
+(12/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/qgtstqwebsxuuhdcupzwxtiyjfsdzfqg.csc
+(13/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/jcjtvlrweqlvumqsalfwihntvdcsvnkt.csc
+(14/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout3.csc
+Running /experiment/Connectivity/zsjohnjmovyjzhvdrubonbyylbguxtdn.csc
+(15/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/yekelhxymeihvhamfvflntsiwophuvkz.csc
+(16/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [62]
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/uozlczyzugncacxktuprzhmwyvrwaacr.csc
+(17/25) Simulation finished
+Network not connected
+Number of nodes in dag: 98
+stranded_nodes: [62, 91]
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/qgkxrhbzrawczhlwwmxapisrqnklbdif.csc
+(18/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/gpflvmxegaveqjfxylcgmdxpathlwkjz.csc
+(19/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout4.csc
+Running /experiment/Connectivity/qzcbenrkqyidefpnypkkzkvbdxprmkef.csc
+(20/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/lffhjcdvhdgnfihxogkiwxvxnfqnsuri.csc
+(21/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/lwjujmwnawgdesouupxzahdmhynjtfao.csc
+(22/25) Simulation finished
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/sqfdoosnyghnuiwptyvcmxdyxqyakyqb.csc
+(23/25) Simulation finished
+Downloading: N37W121.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/ekcxnniyyptwdrtlhsikycxudyuzawxp.csc
+(24/25) Simulation finished
+Network not connected
+Number of nodes in dag: 99
+stranded_nodes: [60]
+Downloading: N36W117.hgt
+starting directory /experiment/Connectivity/
+simulation path /experiment/Connectivity/ec_30_layout5.csc
+Running /experiment/Connectivity/rnchvlddilmrrxyvvgfhiyqblqrrklhy.csc
+(25/25) Simulation finished
+Connected 88.0%, nodes: 100, density: 628, acv: 20.0%, degree: 19.953150278293137, population: 30

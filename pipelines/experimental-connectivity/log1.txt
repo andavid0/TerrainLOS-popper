@@ -1,5 +1,0 @@
-Transmission range: 4665.721644954883
-Downloading: N37W114.hgt
-starting directory /experiment/Connectivity/
-simulation path /experiment/Connectivity/ec_1_layout1.csc
-Running /experiment/Connectivity/twvjqkzzrrdujsoodfaftarfazfkjpmu.csc
